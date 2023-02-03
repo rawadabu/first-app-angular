@@ -35,3 +35,5 @@ Components are kind for such instructions in the DOM
     selector:'[appTurnGreen]'
 })
 ```
+
+`*ngFor` For loop, `*ngIf` for if/else.
